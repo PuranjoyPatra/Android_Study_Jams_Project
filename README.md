@@ -1,2 +1,2 @@
-# Android_Development_Project
-# App Name: "Study Notes"
+### Android_Development_Project
+### App Name: "Study Notes"
