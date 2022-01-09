@@ -10,11 +10,15 @@ import com.example.studynotes.R
 import com.example.studynotes.databinding.ItemNotesBinding
 import com.example.studynotes.ui.Fragments.HomeFragmentDirections
 
-class NotesAdapter(val requireContext: Context, val notesList: List<Notes>) :
+class NotesAdapter(val requireContext: Context, var notesList: List<Notes>) :
     RecyclerView.Adapter<NotesAdapter.notesViewHolder>() {
-    class notesViewHolder(val binding: ItemNotesBinding) : RecyclerView.ViewHolder(binding.root) {
 
+    fun filtering(newFilterList: ArrayList<Notes>) {
+        notesList = newFilterList
+        notifyDataSetChanged()
     }
+
+    class notesViewHolder(val binding: ItemNotesBinding) : RecyclerView.ViewHolder(binding.root)
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): notesViewHolder {
         return notesViewHolder(
