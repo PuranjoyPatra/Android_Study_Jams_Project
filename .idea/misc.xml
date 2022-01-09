@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android-Study-Jam/StudyNotes/app/src/main/res/drawable/btn_filter_shape.xml" value="0.2203125" />
+        <entry key="..\:/Android-Study-Jam/StudyNotes/app/src/main/res/drawable/dele_sheet.xml" value="0.2203125" />
         <entry key="..\:/Android-Study-Jam/StudyNotes/app/src/main/res/drawable/edit_txt_shape.xml" value="0.2203125" />
         <entry key="..\:/Android-Study-Jam/StudyNotes/app/src/main/res/drawable/green_dot.xml" value="0.2203125" />
         <entry key="..\:/Android-Study-Jam/StudyNotes/app/src/main/res/drawable/no_btn.xml" value="0.2203125" />
@@ -11,12 +13,13 @@
         <entry key="..\:/Android-Study-Jam/StudyNotes/app/src/main/res/drawable/yes_btn.xml" value="0.2203125" />
         <entry key="..\:/Android-Study-Jam/StudyNotes/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Android-Study-Jam/StudyNotes/app/src/main/res/layout/activity_splash_screen.xml" value="0.15" />
-        <entry key="..\:/Android-Study-Jam/StudyNotes/app/src/main/res/layout/dialog_delete.xml" value="0.22" />
+        <entry key="..\:/Android-Study-Jam/StudyNotes/app/src/main/res/layout/dialog_delete.xml" value="0.1" />
         <entry key="..\:/Android-Study-Jam/StudyNotes/app/src/main/res/layout/fragment_create_notes.xml" value="0.1" />
         <entry key="..\:/Android-Study-Jam/StudyNotes/app/src/main/res/layout/fragment_edit_notes.xml" value="0.1" />
-        <entry key="..\:/Android-Study-Jam/StudyNotes/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Android-Study-Jam/StudyNotes/app/src/main/res/layout/fragment_home.xml" value="0.22" />
         <entry key="..\:/Android-Study-Jam/StudyNotes/app/src/main/res/layout/fragment_home_freagment.xml" value="0.12771739130434784" />
         <entry key="..\:/Android-Study-Jam/StudyNotes/app/src/main/res/layout/item_notes.xml" value="0.1" />
+        <entry key="..\:/Android-Study-Jam/StudyNotes/app/src/main/res/menu/delete_menu.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
