@@ -11,8 +11,17 @@ Mobile Application is one of the major developments in the field of technology, 
 
 This project proposes a “Study Notes App” to keep track of the all the notes a student has made earlier. Its features include inserting a note and labelling it with colors as Incomplete(Red) , To-Be-Completed(Yellow) and Complete(Green). A student can insert multiple notes and also delete them in the app. All the note-items is present in local database and the date of the notes taken is also displayed. The project's scope is to extend it for other individuals to manage their notes properly.
 
-<img width="559" alt="sampleimages" src="">
-    	  	
+<b> How the App looks : </b>
+
+<img width="250" height="500" alt="sampleimages" src="https://user-images.githubusercontent.com/73780844/148697167-cdc6658c-a2f1-4241-b199-a61c4efe44cb.jpg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="250" height="500" alt="sampleimages" src="https://user-images.githubusercontent.com/73780844/148697293-f17fa16b-6ff4-4717-9212-9d31a4364f0e.jpg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="250" height="500" alt="sampleimages" src="https://user-images.githubusercontent.com/73780844/148697311-22b0f3c7-02a2-4c9c-a1b0-63929870413e.jpg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="250" height="500" alt="sampleimages" src="https://user-images.githubusercontent.com/73780844/148697318-e43e2df7-57b9-4fae-baeb-c622a828b38f.jpg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="250" height="500" alt="sampleimages" src="https://user-images.githubusercontent.com/73780844/148697322-56759bd6-e520-4a63-b5f7-bf110746e2ad.jpg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="250" height="500" alt="sampleimages" src="https://user-images.githubusercontent.com/73780844/148697317-aa6a2d40-2ee8-4033-b010-6b56b396cde1.jpg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="250" height="500" alt="sampleimages" src="https://user-images.githubusercontent.com/73780844/148697322-56759bd6-e520-4a63-b5f7-bf110746e2ad.jpg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="250" height="500" alt="sampleimages" src="https://user-images.githubusercontent.com/73780844/148697328-31aea1c3-20f9-472f-af68-71b0c1e06b77.jpg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <b> Functionality & Concepts used : </b>
 
 - The App has a very simple and interactive interface which helps the students maintain their notes and keep it at one place for future references. Following are few android concepts used to achieve the functionalities in app : 
